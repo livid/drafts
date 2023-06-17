@@ -1,5 +1,3 @@
----
-
 # 最近升级了一下家里的网络设备
 
 一直在关注的朋友可能知道，我在去年的时候开始做一个新的 macOS 上的原生应用 [Planet](https://planetable.xyz)。Planet 本质上是一个带有图形界面的 Markdown 编辑器加静态网站生成器，然后比较特别的是内置了 IPFS 节点。所以用 Planet 构建好网站之后，就可以直接通过内置的 IPFS 服务器向互联网提供服务。
@@ -47,7 +45,7 @@ https://justinyan.eth.limo/
 
 UniFi Network 是 UniFi OS 中用于管理所有网络设备的控制软件。通过 UniFi Network，可以很清晰看到和管理整个网络中所有 UniFi 设备，及所有用户设备的状态。
 
-对于网络使用过程中的很多场景，UniFi Network 都提供了简便的图形化的配置方式，比如 Site-to-Site VPN、兼容古董设备的单独的 SSID 配置、IPv4/IPv6 各自的防火墙设置等等。这些配置在这次升级设备的时候，在一个备份文件里就可以导出导入。这也是我这么多年一直都在用 UniFi 的一个主要原因。
+对于网络使用过程中的很多场景，UniFi Network 都提供了简便的图形化的配置方式，比如 Site-to-Site VPN、兼容古董设备的单独的 SSID 配置、IPv4/IPv6 各自的防火墙设置等等。这些配置在这次升级设备的时候，在一个备份文件里就可以导出导入。UniFi Network（之前的名字是 UniFi Controller）是我这么多年一直都在用 UniFi 产品的一个主要原因。
 
 关于兼容古董设备的单独的 SSID 配置，我前段时间在中古店淘到了一台 2006 年上市的 Palm 设备 SONY TH-55，通过在 UniFi Network 里单独配置了一个 802.11b 的 SSID，成功让这台古董设备连上了网。
 
@@ -63,8 +61,6 @@ UniFi Network 是 UniFi OS 中用于管理所有网络设备的控制软件。�
 Flex XG 是一台很小巧的 10G 设备，提供 4 个 10G 的以太网口，和一个 1G 的 PoE+ 口，主要用于给设备供电。设备在运行的时候很安静，和 10G 设备一起放在桌面正好。
 
 ![](USW-Flex-XG.jpg)
-
----
 
 最近几年 UniFi 的产品线进行了很多扩充，已经不仅仅只是网络设备。在 US 的 Early Access 商店里，甚至开始出现网络供电和控制的 LED 面板、EV 充电站等等，都可以用一套 UniFi Network 控制软件管理起来。
 
