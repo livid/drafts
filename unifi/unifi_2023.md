@@ -45,6 +45,8 @@ https://justinyan.eth.limo/
 
 UniFi Network 是 UniFi OS 中用于管理所有网络设备的控制软件。通过 UniFi Network，可以很清晰看到和管理整个网络中所有 UniFi 设备，及所有用户设备的状态。
 
+![](UniFi-Network.png)
+
 对于网络使用过程中的很多场景，UniFi Network 都提供了简便的图形化的配置方式，比如 Site-to-Site VPN、兼容古董设备的单独的 SSID 配置、IPv4/IPv6 各自的防火墙设置等等。这些配置在这次升级设备的时候，在一个备份文件里就可以导出导入。UniFi Network（之前的名字是 UniFi Controller）是我这么多年一直都在用 UniFi 产品的一个主要原因。
 
 关于兼容古董设备的单独的 SSID 配置，我前段时间在中古店淘到了一台 2006 年上市的 Palm 设备 SONY TH-55，通过在 UniFi Network 里单独配置了一个 802.11b 的 SSID，成功让这台古董设备连上了网。
