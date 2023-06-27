@@ -29,11 +29,11 @@ https://justinyan.eth.limo/
 
 ## UniFi Dream Machine SE
 
-![](UDM-SE-Product.png)
+![](https://i.v2ex.co/FG81C264.png)
 
 [UDM-SE](https://store.ui.com.cn/collections/unifi-network-unifi-os-consoles/products/dream-machine-se) 是 UniFi 的网关产品里最新的一个型号。外形和 USG-PRO-4 差不多，都是 rack mount 造型。但不同于通常的 rack mount 设备的工业化质感，UniFi 专业网关产品的表面是一种类似银色 Mac mini 的质感。你可以想象如果苹果的 Xserve 产品线还在继续出新品的话，大概就是这样的质感。UDM-SE 左侧多了一块小屏幕，可以用来看到实时的网速和进行一些简单的设置。
 
-![](UDM-SE.jpg)
+![](https://i.v2ex.co/xpccVwQ9.jpeg)
 
 入手之前在 Reddit 和 YouTube 上搜了一下关于风扇噪音是否有人吐槽，然后基本上没有看到，于是就入手了。开机之后没有让我失望——风扇相比 USG-PRO-4 进步很大，很安静。于是塞进电视机柜里用也完全没有问题。
 
@@ -45,7 +45,7 @@ https://justinyan.eth.limo/
 
 UniFi Network 是 UniFi OS 中用于管理所有网络设备的控制软件。通过 UniFi Network，可以很清晰看到和管理整个网络中所有 UniFi 设备，及所有用户设备的状态。
 
-![](UniFi-Network.png)
+![](https://i.v2ex.co/K8gZZj2Q.png)
 
 对于网络使用过程中的很多场景，UniFi Network 都提供了简便的图形化的配置方式，比如 Site-to-Site VPN、兼容古董设备的单独的 SSID 配置、IPv4/IPv6 各自的防火墙设置等等。这些配置在这次升级设备的时候，在一个备份文件里就可以导出导入。UniFi Network（之前的名字是 UniFi Controller）是我这么多年一直都在用 UniFi 产品的一个主要原因。
 
@@ -62,7 +62,7 @@ UniFi Network 是 UniFi OS 中用于管理所有网络设备的控制软件。�
 
 Flex XG 是一台很小巧的 10G 设备，提供 4 个 10G 的以太网口，和一个 1G 的 PoE+ 口，主要用于给设备供电。设备在运行的时候很安静，和 10G 设备一起放在桌面正好。
 
-![](USW-Flex-XG.jpg)
+![](https://i.v2ex.co/ZAqMXZNy.jpeg)
 
 最近几年 UniFi 的产品线进行了很多扩充，已经不仅仅只是网络设备。在 US 的 Early Access 商店里，甚至开始出现网络供电和控制的 LED 面板、EV 充电站等等，都可以用一套 UniFi Network 控制软件管理起来。
 
