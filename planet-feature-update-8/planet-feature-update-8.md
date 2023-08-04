@@ -6,6 +6,10 @@ A new `Article Settings` context menu has been added. Now, you have the ability 
 
 ![](article-settings.png)
 
+With these new settings, you can design your site navigation similarly to [planetable.eth](https://planetable.eth.limo). This can be done by designating certain articles to be featured as items in the site navigation bar.
+
+![](site-nav.png)
+
 By clicking on the list filter, you can filter articles by type, making it easier to find specific pages.
 
 ![](filter.png)
@@ -56,9 +60,15 @@ If you include a YouTube link in the content, it will now automatically convert 
 
 - Drag to reorder my planets or the following planets.
 - A progress bar shows during the rebuilding of a planet.
+
+<figure>
+<img src="rebuild-progress.png">
+<figcaption>Progress when rebuilding a Planet</figcaption>
+</figure>
+
 - Fixed issues with moving articles.
+- Fixed a crash that occurred when the app had been up and running for an extended period.
 - A template can now have its own settings dictionary, opening possibilities for more template-level customizations.
 - Improved scrolling performance in the Markdown Writer.
 - Markdown Writer date picker can select 'Today'.
 
-![](rebuild-progress.png)
