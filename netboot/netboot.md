@@ -60,8 +60,16 @@ After you install that package, a new NetBoot image for OS 9 will become active 
 
 There are two types of NetBoot images for Mac OS X: Install and Live System. You can create an Install-type image from a disk image. A Live System image can be made from a system partition.
 
+![](netboot-service.png)
+
 ## Boot from Network
 
 During start-up, hold down the `N` key, and your machine will locate the NetBoot server and boot from its default image.
 
 You can also select which image to boot from by using the Startup Disk control panel in System Preferences.
+
+![](startup-disk.png)
+
+---
+
+I attached Apple's official [tech brief document on NetBoot](NetBoot_TB_v10.4.pdf), saved from [Internet Archive Wayback Machine](https://web.archive.org/web/20051230082908/http://www.apple.com/server/documentation/), so that you can learn more about its capabilities.
