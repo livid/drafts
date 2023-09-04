@@ -60,9 +60,13 @@ After you install that package, a new NetBoot image for OS 9 will become active 
 
 ### NetBoot Image for Mac OS X
 
-There are two types of NetBoot images for Mac OS X: Install and Live System. You can create an Install-type image from a disk image. A Live System image can be made from a system partition.
+There are two types of NetBoot images for Mac OS X: Install and Boot. You can create an Install-type image from a disk image. A Boot-type image can be made from a system partition.
 
 ![](netboot-service.png)
+
+New images can be created with the <strong>System Image Utility</strong> app. It can be found in the <strong>Server</strong> folder in <strong>Applications</strong>.
+
+![](system-image-utility.png)
 
 ## Boot from Network
 
