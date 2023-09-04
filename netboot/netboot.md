@@ -33,6 +33,8 @@ After the installation is completed, it will restart to the installer on the DVD
 
 Now you have a running Mac OS X 10.4 Server that can provide NetBoot to your PowerPC machines.
 
+![](utm.png)
+
 Let’s set up several images for NetBoot.
 
 ### NetBoot Image for Mac OS 9
@@ -51,6 +53,8 @@ In case that address becomes unreachable, here are its hash values. In the futur
 |SHA1|3b1665c12b76c8c031bbb14bd8fed62f82643de8|
 
 After you install that package, a new NetBoot image for OS 9 will become active in the Server app.
+
+![](netboot-images.png)
 
 ### NetBoot Image for Mac OS X
 
