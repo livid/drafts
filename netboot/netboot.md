@@ -20,6 +20,8 @@ Create a new VM in UTM with the following configuration:
 - Choose the `PowerPC` architecture and the `Mac99` system. Set the memory to 2GB and use one core. That is actually the maximum that this emulated system can support.
 - For storage, you'll need at least 10GB. Having 20GB or more would be ideal if you want to try more NetBoot images later.
 
+![](utm-vm-settings.png)
+
 After the VM is created, you will need to modify two more settings before starting it.
 
 - Network: Change the Network Mode to Bridged and bridge it to your LAN, so that your G3/G4/G5 can later find this VM.
