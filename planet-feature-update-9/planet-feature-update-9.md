@@ -12,6 +12,10 @@ You can now add tags to posts either through Article Settings or via a new taggi
 
 Each tag will then generate its own page, so all posts with that tag can be viewed from one page.
 
+For example, this is the tag page for all release notes of Planet:
+
+https://planetable.eth.limo/release-notes.html
+
 ## Archive
 
 A new Archive page has been added. It contains links to all the posts on the site.
@@ -26,7 +30,7 @@ A new Icon Gallery has been added for you to choose a new icon for the Planet ap
 
 ![](icons-vol-1.png)
 
-If you own Pinnable NFT Series A, then you can unlock two special icons that have animations in the Dock upon startup.
+If you own [Pinnable NFT Series A](https://juicebox.money/v2/p/471), then you can unlock two special icons that have animations in the Dock upon startup.
 
 ![](icons-pna.png)
 
@@ -46,3 +50,5 @@ Multiple enhancements have been implemented for the [Pinnable](https://pinnable.
 <img src="pinned.png">
 <figcaption>The icons next to the Planet site title mean it's pinned.</figcaption>
 </figure>
+
+As soon as you see the pinned icon next to your site title, you can rest assured that extra copies have been saved on the remote Pinnable servers. As a result, your site will be faster and more reachable from various IPFS gateways.
