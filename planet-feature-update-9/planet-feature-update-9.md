@@ -30,6 +30,8 @@ If you own Pinnable NFT Series A, then you can unlock two special icons that hav
 
 ![](icons-pna.png)
 
+To use this animated icon, first you need to connect your Ethereum wallet. You can do so by scanning the QR code with the [Rainbow](https://rainbow.me) Wallet app on your phone.
+
 ## Select Hero Image
 
 When you have multiple images attached to a post, you can now select one of them as the hero image. The hero image will be displayed when you share the post link on social sites like Twitter or Discord.
