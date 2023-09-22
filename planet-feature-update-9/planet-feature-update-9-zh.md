@@ -44,6 +44,11 @@ Planet 的三个内置主题都已经为这次的新功能（标签和归档页�
 
 ![](set-hero-image.png)
 
+<figure>
+<img src="hero-image-twitter.png">
+<figcaption>设置了 Hero Image 之后在 <a href="https://twitter.com/PlanetableXYZ/status/1704014946416431121" target="_blank">Twitter</a> 里分享链接的效果</figcaption>
+</figure>
+
 ## 增强的 Pinnable 支持
 
 我们继续改进了在上一个版本中引入的 [Pinnable](https://pinnable.xyz) 集成。现在当你为网站启用 Pinnable 服务时，各类交互的结果会以更及时的方式反馈。
