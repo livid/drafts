@@ -6,6 +6,8 @@ eth.limo is the best gateway for ENS websites. Now, with direct peering added, y
 
 Sepia is a brand new template that is great for microblogging.
 
+Here is a [demo site](https://gateway.v2ex.pro/ipns/k51qzi5uqu5dgpbgbc7c3w2wjpsyqb28l5205znvbegmn5p7koctjuvgxb56r1/) of the new template.
+
 Features:
 
 - Show the latest content in chronological order
@@ -24,7 +26,7 @@ This improvement should significantly reduce the possibility of an IPNS site bei
 
 ## Improved Rebuild
 
-Now there are two types of rebuild: Quick Rebuild and Full Rebuild. A Quick Rebuild will only regenerate the site's homepage file, index.html. A Full Rebuild will also regenerate every single post with your currently selected template for the site.
+Now there are two types of rebuild: Quick Rebuild and Full Rebuild. A Quick Rebuild will only regenerate the site's homepage file, index.html. A Full Rebuild will also regenerate every single post with your currently selected template for the site. Quick rebuilding is useful when you are debugging a SPA (single page application) template, such as [Croptop](https://revnet.eth.limo).
 
 ## Misc. Fixes and Improvements
 
