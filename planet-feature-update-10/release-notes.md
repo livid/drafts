@@ -1,0 +1,11 @@
+- <b>Direct peering with eth.limo</b>
+- <b>New template: Sepia</b>
+- <b>Improved IPNS Publishing</b>
+- <b>Improved Rebuild</b>
+- Fixed an issue where attaching files on macOS 14 was not working
+- Fixed an image interpolation setting that caused blurry avatars
+- Fixed an issue where the favicon was not removed when the avatar was unset
+- Added support for pasting images with the Quick Share dialog
+- Added Bonjour advertising for the Planet API service
+- Added a random pick feature in the Avatar Picker
+- Added a new API endpoint: /v0/id
