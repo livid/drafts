@@ -1,12 +1,16 @@
+This update contains important improvements for performance, and a new template design: Sepia!
+
 ## Peering with eth.limo
 
-eth.limo is the best gateway for ENS websites. Now, with direct peering added, your new content will show up faster on eth.limo because direct peering can significantly reduce the time eth.limo spends connecting with your local IPFS node.
+[eth.limo](https://eth.limo) is the best gateway for ENS websites. Now, with direct peering added, your new content will show up faster on eth.limo because direct peering can significantly reduce the time eth.limo spends connecting with your local IPFS node.
 
 ## New Template: Sepia
 
 Sepia is a brand new template that is great for microblogging.
 
 Here is a [demo site](https://gateway.v2ex.pro/ipns/k51qzi5uqu5dgpbgbc7c3w2wjpsyqb28l5205znvbegmn5p7koctjuvgxb56r1/) of the new template.
+
+![](sepia.png)
 
 Features:
 
