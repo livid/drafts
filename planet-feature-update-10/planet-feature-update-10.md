@@ -26,6 +26,8 @@ We'll continue to improve this new template as we receive feedback from you. In 
 
 A confirmation dialog will now show if you try to quit the app while it is performing IPNS publishing (indicated by an animating hourglass in the sidebar). Previously, quitting the app during this process could result in unfinished IPNS publishing and cause the website to fail to resolve.
 
+![](confirm-dialog.png)
+
 This improvement should significantly reduce the possibility of an IPNS site being unable to resolve.
 
 ## Improved Rebuild
