@@ -1,0 +1,1 @@
+You can enable the API server from the Settings. With the API server enabled, you can post to your Planet sites from a mobile app, or simply experiment with the API.
