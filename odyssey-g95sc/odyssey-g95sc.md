@@ -9,4 +9,4 @@ The only issue I encountered was that the highest HiDPI resolution available on 
 
 After a reboot, you should see several new scaled resolutions, which could provide more vertical space.
 
-For example, when you are using a 3840x1080 HiDPI scaled mode, macOS would render at 7680x2160, then scaled to show on the physical resolution of 5120x1440.
+For example, when you are using a 3840x1080 HiDPI scaled mode, macOS would render at 7680x2160, then scale it down to display on the monitor's physical resolution of 5120x1440.
