@@ -58,6 +58,8 @@ curl -X POST http://127.0.0.1:8086/v0/planets/my/999BB908-B79A-4C89-8DA6-1339BDF
   -F "content=content"
 ```
 
+Known issue: You cannot set the post creation date and time in versions 0.17 and below. This feature will be available in version 0.18.2 and later.
+
 ## GET /v0/planets/my/:planet_id/articles/:article_id
 
 Get info of a specific post.
