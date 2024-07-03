@@ -10,6 +10,8 @@ Here are all the methods it supports:
 
 ## GET /v0/planets/my
 
+http://127.0.0.1:8086/v0/planets/my
+
 List all sites.
 
 ## GET /v0/planets/my/:planet_id
