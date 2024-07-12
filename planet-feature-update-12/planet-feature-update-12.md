@@ -32,6 +32,8 @@ You can find a new Open menu under File, or use the keyboard shortcut CMD+O to o
 
 You can now select from previously used tags when adding tags to your post.
 
+![](tags.png)
+
 ## New Avatar Set: Monochrom
 
 99 new black-and-white avatar images for your Planet site. A new setting allows you to save a circular version of the avatar to better fit certain template designs.
@@ -47,6 +49,8 @@ Simply drag and drop an image into the article list to share it.
 ## New Quick Post Input
 
 Click on the toolbar or use the keyboard shortcut <kbd>CMD</kbd>+<kbd>D</kbd> to access this new input designed for microblogging.
+
+![](quick-post.png)
 
 ## Fixes and Improvements
 
