@@ -42,6 +42,8 @@ You can now select from previously used tags when adding tags to your post.
 
 Simply drag and drop an image into the article list to share it.
 
+![](quick-share.gif)
+
 ## New Quick Post Input
 
 Click on the toolbar or use the keyboard shortcut <kbd>CMD</kbd>+<kbd>D</kbd> to access this new input designed for microblogging.
