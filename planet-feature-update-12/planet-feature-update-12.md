@@ -54,6 +54,7 @@ Click on the toolbar or use the keyboard shortcut <kbd>CMD</kbd>+<kbd>D</kbd> to
 
 ## Fixes and Improvements
 
+- Fixed unexpected behavior of the article list on macOS 12/13.
 - Use keyboard to navigate between search results.
 - Use `//` or `#` as comment lines in aggregation settings.
 - Hero image width and height are included in the variables for templates.
