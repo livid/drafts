@@ -2,7 +2,7 @@
 
 We've updated the Wallet Connect integration. Now, you can easily scan a QR code to connect your wallet and tip your favorite creators. This update also paves the way for additional Ethereum and L2 features.
 
-## New IPFS/ENS Gateways
+## New IPFS/ENS Gateway
 
 There is a new fast gateway for IPFS/ENS websites, and you can select it from Settings. You will get shareable links on the eth.sucks or crop.top domains.
 
