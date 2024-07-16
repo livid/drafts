@@ -67,8 +67,6 @@ Planet 更新了对 WalletConnect 的支持，升级到了 WalletConnectV2 版�
 
 按下 <kbd>CMD</kbd>+<kbd>D</kbd> 就可以打开一个新的短文本输入发送框，配合 Sepia 主题，很适合用来记录和分享一些简短的想法。
 
-Click on the toolbar or use the keyboard shortcut <kbd>CMD</kbd>+<kbd>D</kbd> to access this new input designed for microblogging.
-
 ![](quick-post.png)
 
 比如这是一个使用 Sepia 主题的 microblog 站点：
